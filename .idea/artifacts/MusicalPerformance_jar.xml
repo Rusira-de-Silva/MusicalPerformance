@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MusicalPerformance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MusicalPerformance_jar</output-path>
+    <root id="archive" name="MusicalPerformance.jar">
+      <element id="module-output" name="MusicalPerformance" />
+    </root>
+  </artifact>
+</component>
